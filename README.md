@@ -4,6 +4,8 @@ blockchain-developer-bootcamp-final-project
 
 
 # The Project Description
+NFT Marketplace
+
 
 # Directory Structure
 
