@@ -1,0 +1,7 @@
+
+
+deployed Network = Rinkeby
+
+deployed marketplace address = 0xb584c4466F1C3aC4cA6010D44012B33Cf0eD5193
+
+deployed ERC721Token address = 0x6226cEd01b4bcA1C1A2142135468f02936CA04fd
