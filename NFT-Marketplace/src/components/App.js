@@ -3,6 +3,7 @@ import { HashRouter, Route } from "react-router-dom";
 import "./App.css";
 import Web3 from "web3";
 import CryptoBoys from "../abis/CryptoBoys.json";
+/* eslint-disable */
 
 import FormAndPreview from "../components/FormAndPreview/FormAndPreview";
 import AllCryptoBoys from "./AllCryptoBoys/AllCryptoBoys";
@@ -10,6 +11,7 @@ import AccountDetails from "./AccountDetails/AccountDetails";
 import ContractNotDeployed from "./ContractNotDeployed/ContractNotDeployed";
 import ConnectToMetamask from "./ConnectMetamask/ConnectToMetamask";
 import Loading from "./Loading/Loading";
+
 import Navbar from "./Navbar/Navbar";
 import MyCryptoBoys from "./MyCryptoBoys/MyCryptoBoys";
 import Queries from "./Queries/Queries";

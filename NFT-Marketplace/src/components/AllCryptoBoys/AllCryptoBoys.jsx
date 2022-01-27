@@ -1,4 +1,9 @@
+/* eslint-disable */
+
+
 import React, { useState, useEffect } from "react";
+
+
 import CryptoBoyNFTImage from "../CryptoBoyNFTImage/CryptoBoyNFTImage";
 import CryptoBoyNFTDetails from "../CryptoBoyNFTDetails/CryptoBoyNFTDetails";
 import Loading from "../Loading/Loading";
