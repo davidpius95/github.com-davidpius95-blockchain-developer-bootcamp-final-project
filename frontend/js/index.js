@@ -9,7 +9,7 @@ let web3n
 const sendEthButton = document.querySelector('#sendEthButton');
 
 $('.mintBtn').hide()
-let currenctEthPrice = 0.07
+let currenctEthPrice = 0.02
 let totalAmount = currenctEthPrice
 
 $('#amount').text(currenctEthPrice)
@@ -61,7 +61,7 @@ const getContract = async (web3) => {
   const data = await $.getJSON("abi.json");
   contract = new web3.eth.Contract(
         data,
-        '0xe6036135BdCDFf2e27A910AA6fc7f4fB6d75455E'
+        '0x0f1ac27043A8C294d180f367594437d99feEf1A9'
       );
       return contract
 };
