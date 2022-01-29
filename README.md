@@ -4,7 +4,13 @@ blockchain-developer-bootcamp-final-project
 
 
 # The Project Description
-NFT Marketplace
+NFT Minting Dapp
+
+# deployed address
+0x0f1ac27043A8C294d180f367594437d99feEf1A9
+
+# link to the website
+https://nft-lab.netlify.app/
 
 
 # Directory Structure

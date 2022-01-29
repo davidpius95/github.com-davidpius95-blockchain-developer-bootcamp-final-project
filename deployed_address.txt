@@ -2,6 +2,7 @@
 
 deployed Network = Rinkeby
 
-deployed marketplace address = 0xb584c4466F1C3aC4cA6010D44012B33Cf0eD5193
+deployed websit = https://nft-lab.netlify.app/
 
-deployed ERC721Token address = 0x6226cEd01b4bcA1C1A2142135468f02936CA04fd
+
+deployed ERC721Token address = 0x0f1ac27043A8C294d180f367594437d99feEf1A9
